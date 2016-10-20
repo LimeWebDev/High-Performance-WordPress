@@ -39,3 +39,6 @@ Welcome to the High-Performance-WordPress wiki!
 - https://codex.wordpress.org/High_Traffic_Tips_For_WordPress
 - https://codex.wordpress.org/WordPress_Optimization
 - http://markjaquith.com/wordcamp/high-performance-wordpress/
+
+[Collaborated by Lime Web Development](https://limewebdevelopment.com)
+
